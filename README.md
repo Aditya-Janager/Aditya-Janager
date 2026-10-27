@@ -1,18 +1,14 @@
-<h1 align="center">Hi, I'm Aditya 👋</h1>
+<h1 align="center">Hey, I'm Aditya 👋</h1>
 
 <p align="center">
-  Full Stack Engineer · Next.js · Node.js · AI Applications
+  <b>Full Stack Engineer · Building with AI</b><br/>
+  Clean interfaces. Solid backends. Smarter workflows.
 </p>
 
 <p align="center">
-  Building practical web applications and exploring AI-powered workflows.
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,nodejs,express,fastapi,postgres,prisma,redis,aws,docker,git,githubactions&theme=dark&perline=8" alt="My tech stack" />
 </p>
 
-<h3 align="center">Tech Stack</h3>
-
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,python,postgres,prisma,redis,aws,docker,git&theme=dark&perline=7"
-    alt="My technology stack"
-  />
+  SaaS Platforms · AI Workflows · REST APIs · Cloud Deployments
 </p>
