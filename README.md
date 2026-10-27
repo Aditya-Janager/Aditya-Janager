@@ -1,4 +1,6 @@
-<h1 align="center">Hey, I'm Aditya 👋</h1>
+<img src="./banner.png" alt="Aditya — Full Stack + Applied AI" width="100%" />
+
+<!-- <h1 align="center">Hey, I'm Aditya 👋</h1> -->
 
 <p align="center">
   <b>Full Stack Engineer · Building with AI</b><br/>
